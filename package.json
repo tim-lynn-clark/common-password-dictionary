@@ -1,0 +1,29 @@
+{
+  "name": "common-password-dictionary",
+  "version": "1.0.0",
+  "description": "A dictionary of commonly used passwords that should not be used. Intended as a validation step when new login credentials are being created at sign up or password reset within a system.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tim-lynn-clark/common-password-dictionary.git"
+  },
+  "keywords": [
+    "security",
+    "common",
+    "passwords",
+    "passwords",
+    "password",
+    "dictionary",
+    "password",
+    "validation"
+  ],
+  "author": "Tim Clark",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tim-lynn-clark/common-password-dictionary/issues"
+  },
+  "homepage": "https://github.com/tim-lynn-clark/common-password-dictionary#readme"
+}
